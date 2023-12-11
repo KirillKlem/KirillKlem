@@ -31,8 +31,8 @@ I try to do tasks on LeetCode (including all new ones about Pandas) <br>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KlemKirill)](https://github.com/madushadhanushka/github-readme)
 
-Thanks for reading❤️
-My LeetCode: [KirillKlem](https://leetcode.com/KlemKirill/)
+Thanks for reading❤️ <br>
+My LeetCode: [KirillKlem](https://leetcode.com/KlemKirill/) <br>
 To write to me, I have a telegram -> [klemkirill](https://t.me/klemkirill)
 
 <!--
