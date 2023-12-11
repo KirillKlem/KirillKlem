@@ -8,8 +8,8 @@ I have read some books to improve my knowledge:
 * Learning Pandas 2.0 (Matthew Rosch)
 <br>
 I took some courses: <br>
-LearnPython ([LP](https://learn.python.ru)) <br>
-Many kaggle courses: Pandas, data visualization, ML and others ([Kaggle](https://www.kaggle.com/learn))
+LearnPython (https://learn.python.ru) <br>
+Many kaggle courses: Pandas, data visualization, ML and others (https://www.kaggle.com/learn)
 <br>
 <br>
 I do some pet-projects (it will be supplemented in the future)
@@ -33,7 +33,7 @@ I try to do tasks on LeetCode (including all new ones about Pandas) <br>
 
 Thanks for reading❤️
 My LeetCode: [KirillKlem](https://leetcode.com/KlemKirill/)
-To write to me, [klemkirill](I have a telegram -> https://t.me/klemkirill)
+To write to me, I have a telegram -> [klemkirill](https://t.me/klemkirill)
 
 <!--
 
