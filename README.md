@@ -33,7 +33,6 @@ I try to do tasks on LeetCode (including all new ones about Pandas) <br>
 
 Thanks for reading❤️ <br>
 My LeetCode: [KirillKlem](https://leetcode.com/KlemKirill/) <br>
-To write to me, I have a telegram -> [klemkirill](https://t.me/klemkirill)
 
 <!--
 
