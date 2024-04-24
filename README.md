@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, data scientist 🇷🇺</h3>
+<h3 align="center">Computer science student, data scientist, machine learning 🇷🇺</h3>
 
-I'm currently studying at the university and actively developing in the field of data science
+I'm currently studying at the university and actively developing in the field of data science and machine learning + deep learning
 I have read some books to improve my knowledge:
 * Grokking Algorithms (Aditya Bhargava)
 * Learning Pandas 2.0 (Matthew Rosch)
+* Deep learning with Python (François Chollet)
 <br>
 I took some courses: <br>
 LearnPython (https://learn.python.ru) <br>
