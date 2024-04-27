@@ -17,13 +17,17 @@ I do some pet-projects (it will be supplemented in the future)
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Project</b></td>
+      <th><b>📘 Project</b></th>
+      <th><b>✏️Stack</b></th>
     </tr>
-  </thead>
+
   <tbody>
     <tr>
       <td><a href="https://github.com/KirillKlem/storage_costs"><b>storage_costs</b></a></td>
+      <td>Numpy, pandas, seaborn</td>
     </tr>
+      <td><a href="https://github.com/KirillKlem/player-score-web"><b>player_score_web</b></a></td>
+      <td>Flask, SQLAlchemy</td>
   </tbody>
 </table>
 
