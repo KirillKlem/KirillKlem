@@ -28,6 +28,10 @@ I do some pet-projects (it will be supplemented in the future)
     </tr>
       <td><a href="https://github.com/KirillKlem/player-score-web"><b>player_score_web</b></a></td>
       <td>Flask, SQLAlchemy</td>
+    <tr>
+      <td><a href="https://github.com/KirillKlem/cards_classification"><b>cards_classification</b></a></td>
+      <td>TensorFlow, Keras, matplotlib</td>
+    </tr>
   </tbody>
 </table>
 
