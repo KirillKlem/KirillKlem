@@ -34,8 +34,8 @@ I do some pet-projects (it will be supplemented in the future)
 <br>
 Also, I solve problems on LeetCode <br>
 Thanks for reading❤️ <br>
-[My LeetCode](https://leetcode.com/KlemKirill/) <br>
-[My Telegram](https://t.me/klemkirill) <br>
+My LeetCode: https://leetcode.com/KlemKirill/) <br>
+My Telegram: https://t.me/klemkirill) <br>
 
 <!--
 
