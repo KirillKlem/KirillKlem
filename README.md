@@ -32,10 +32,7 @@ I do some pet-projects (it will be supplemented in the future)
 </table>
 
 <br>
-I try to do tasks on LeetCode (including all new ones about Pandas) <br>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KlemKirill)](https://github.com/madushadhanushka/github-readme)
-
+Also, I solve problems on LeetCode <br>
 Thanks for reading❤️ <br>
 [My LeetCode](https://leetcode.com/KlemKirill/) <br>
 [My Telegram](https://t.me/klemkirill) <br>
