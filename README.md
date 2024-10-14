@@ -30,7 +30,11 @@ I do some pet-projects (it will be supplemented in the future)
       <td>Flask, SQLAlchemy</td>
     <tr>
       <td><a href="https://github.com/KirillKlem/cards_classification"><b>cards_classification</b></a></td>
-      <td>TensorFlow, Keras, matplotlib</td>
+      <td>tensorflow, keras, matplotlib</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KirillKlem/CU_in_ML"><b>find_video_duplicates</b></a></td>
+      <td>tensorflow, keras, pytorch</td>
     </tr>
   </tbody>
 </table>
