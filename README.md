@@ -36,6 +36,10 @@ I do some pet-projects (it will be supplemented in the future)
       <td><a href="https://github.com/KirillKlem/CU_in_ML"><b>find_video_duplicates</b></a></td>
       <td>tensorflow, keras, pytorch</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints"><b>fMRI_identification</b></a></td>
+      <td>scikit-learn, numpy</td>
+    </tr>
   </tbody>
 </table>
 
