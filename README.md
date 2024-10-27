@@ -23,7 +23,7 @@ I do some pet-projects (it will be supplemented in the future)
 
   <tbody>
     <tr>
-      <td><a href="    https://github.com/trizyx/Article_to_Dialogue"><b>text2speech_SSML</b></a></td>
+      <td><a href="https://github.com/trizyx/Article_to_Dialogue"><b>text2speech_SSML</b></a></td>
       <td>transformers, streamlit, FastAPI</td>
     </tr>
     <tr>
