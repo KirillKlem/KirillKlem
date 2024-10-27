@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> data scientist, machine learning engineer 🇷🇺 </h3>
+<h3 align="center"> ML engineer/AI researcher 🇷🇺 </h3>
 
 I'm currently studying at the university and actively developing in the field of data science and machine learning + deep learning
 I have read some books to improve my knowledge:
@@ -22,6 +22,10 @@ I do some pet-projects (it will be supplemented in the future)
     </tr>
 
   <tbody>
+    <tr>
+      <td><a href="    https://github.com/trizyx/Article_to_Dialogue"><b>text2speech_SSML</b></a></td>
+      <td>transformers, streamlit, FastAPI</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/KirillKlem/storage_costs"><b>storage_costs</b></a></td>
       <td>Numpy, pandas, seaborn</td>
