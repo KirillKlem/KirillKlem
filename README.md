@@ -1,9 +1,9 @@
 <h1 align="center">Привет, меня зовут Кирилл! 👋</h1>
-<h3 align="center">ML инженер / Исследователь ИИ 🇷🇺</h3>
+<h3 align="center">ML/AI 🇷🇺</h3>
 
 <p align="center">
   <a href="https://t.me/klemkirill"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="klemkirill20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="klemkirill20@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 <!--   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a> --!>
 
