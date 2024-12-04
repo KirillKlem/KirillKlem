@@ -16,19 +16,26 @@
 ## 🛠 Навыки
 
 - **Языки программирования:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-- **Фреймворки:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white), ![ultralytics](https://www.ultralytics.com/ru)
+- **Фреймворки:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white), [ultralytics](https://www.ultralytics.com/ru)
 - **Инструменты:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ## 🚀 Проекты
 
 | 📘 Проект | ✏️ Стек | 📝 Описание |
 |-----------|---------|-------------|
-| [text2speech_SSML](https://github.com/trizyx/Article_to_Dialogue) | Transformers, Streamlit, FastAPI | Веб-приложение для преобразования текста в диалог с использованием SSML. |
+| [MCMOT (multi-camera multi-object tracking)](https://github.com/KirillKlem/MCMOT-ISS) | PyTorch, Resnet, ViT, YOLOv11, OpenCV | Многокамерный трекер объектов с использованием YOLO для детекции и Metric Learning для ReID. Обеспечивает точное отслеживание людей в нескольких камерах с точной детекцией. |
+| [CBIR (content based image retrieval)](https://github.com/KirillKlem/Ensemble-CBIR) | PyTorch, TensorFlow, Resnet, ViT-CLIP, FAISS, Annoy, OpenCV | CBIR-система для поиска семантически схожих изображений с высокой точностью и масштабируемостью. |
 | [find_video_duplicates](https://github.com/KirillKlem/CU_in_ML) | TensorFlow, Keras, PyTorch | Система обнаружения дубликатов видеофайлов с помощью машинного обучения. |
 | [fMRI_identification](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Scikit-learn, NumPy | Проект по идентификации индивидуальных особенностей мозга на основе fMRI данных. |
+| [text2speech_SSML](https://github.com/trizyx/Article_to_Dialogue) | Transformers, Streamlit, FastAPI | Веб-приложение для преобразования текста в диалог с использованием SSML. |
 | [storage_costs](https://github.com/KirillKlem/storage_costs) | NumPy, Pandas, Seaborn | Анализ затрат на хранение данных и их визуализация для оптимизации расходов. |
 | [cards_classification](https://github.com/KirillKlem/cards_classification) | TensorFlow, Keras, Matplotlib | Модель для классификации изображений карт с применением глубокого обучения. |
 | [player_score_web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Платформа для отслеживания результатов и рейтингов игроков. |
+
+## 🏆 Соревнования
+
+- 🥇 Постоянный участник хакатонов и мл-контестов: 2-е место на всероссийском хакатоне "Цифровой прорыв", 2-е место на всероссийском хакатоне ФИЦ, 3-е место на мл-контесте от Т-Банка, 1-е место в Kaggle соревнования университета
+- 📚 Решаю задачки на [LeetCode](https://leetcode.com/KlemKirill/)
 
 ## 📈 Статистика
 
@@ -36,11 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KirillKlem&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKlem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-## 🏆 Соревнования
-
-- 🥇 Постоянный участник хакатонов и мл-контестов: 2-е место на всероссийском хакатоне "Цифровой прорыв", 2-е место на всероссийском хакатоне ФИЦ, 3-е место на мл-контесте от Т-Банка, 1-е место в Kaggle соревнования университета
-- 📚 Решаю задачки на [LeetCode](https://leetcode.com/KlemKirill/)
 
 ## 📫 Контакты
 
