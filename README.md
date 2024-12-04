@@ -9,14 +9,14 @@
 
 ## 🧑‍💻 Обо мне
 
-- 🎓 Студент, увлеченный Data Science и Machine Learning.
-- 🔭 Работаю над проектами в области глубокого обучения и анализа данных.
-- 🌱 Изучаю новые технологии и методы в сфере искусственного интеллекта.
+- 🎓 Студент Центрального университета, интересующийся Machine Learning.
+- 🔭 Работаю над проектами в области глубокого обучения (especially computer vision).
+- 🌱 Изучаю новые статьи, интересуюсь новыми технологиями и улучшениями нынешних.
 
 ## 🛠 Навыки
 
 - **Языки программирования:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-- **Фреймворки:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
+- **Фреймворки:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white), ![ultralytics](https://www.ultralytics.com/ru)
 - **Инструменты:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ## 🚀 Проекты
@@ -39,8 +39,8 @@
 
 ## 🏆 Соревнования
 
-- 🥇 Постоянный участник хакатонов и мл-контестов: фина
-- 📚 Решаю задачи на [LeetCode](https://leetcode.com/KlemKirill/) для улучшения алгоритмических навыков.
+- 🥇 Постоянный участник хакатонов и мл-контестов: 2-е место на всероссийском хакатоне "Цифровой прорыв", 2-е место на всероссийском хакатоне ФИЦ, 3-е место на мл-контесте от Т-Банка, 1-е место в Kaggle соревнования университета
+- 📚 Решаю задачки на [LeetCode](https://leetcode.com/KlemKirill/)
 
 ## 📫 Контакты
 
