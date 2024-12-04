@@ -24,11 +24,11 @@
 | 📘 Проект | ✏️ Стек | 📝 Описание |
 |-----------|---------|-------------|
 | [text2speech_SSML](https://github.com/trizyx/Article_to_Dialogue) | Transformers, Streamlit, FastAPI | Веб-приложение для преобразования текста в диалог с использованием SSML. |
-| [storage_costs](https://github.com/KirillKlem/storage_costs) | NumPy, Pandas, Seaborn | Анализ затрат на хранение данных и их визуализация для оптимизации расходов. |
-| [player_score_web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Платформа для отслеживания результатов и рейтингов игроков. |
-| [cards_classification](https://github.com/KirillKlem/cards_classification) | TensorFlow, Keras, Matplotlib | Модель для классификации изображений карт с применением глубокого обучения. |
-| [find_video_duplicates](https://github.com/KirillKlem/CU_in_ML) | TensorFlow, Keras, PyTorch | Система обнаружения дубликатов видеофайлов с использованием нейронных сетей. |
+| [find_video_duplicates](https://github.com/KirillKlem/CU_in_ML) | TensorFlow, Keras, PyTorch | Система обнаружения дубликатов видеофайлов с помощью машинного обучения. |
 | [fMRI_identification](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Scikit-learn, NumPy | Проект по идентификации индивидуальных особенностей мозга на основе fMRI данных. |
+| [storage_costs](https://github.com/KirillKlem/storage_costs) | NumPy, Pandas, Seaborn | Анализ затрат на хранение данных и их визуализация для оптимизации расходов. |
+| [cards_classification](https://github.com/KirillKlem/cards_classification) | TensorFlow, Keras, Matplotlib | Модель для классификации изображений карт с применением глубокого обучения. |
+| [player_score_web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Платформа для отслеживания результатов и рейтингов игроков. |
 
 ## 📈 Статистика
 
