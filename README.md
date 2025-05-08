@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Кирилл 👋</h1>
-<h3 align="center">Специалист по машинному обучению | Computer Vision & Diffusion Models</h3>
+<h3 align="center">Специалист по машинному обучению | Machine learning & Computer Vision </h3>
 
 <p align="center">
   <a href="https://t.me/klemkirill"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
@@ -21,7 +21,6 @@
 
 - **Языки:** Python, SQL  
 - **Фреймворки:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Ultralytics YOLO  
-- **ML/AI:** GNN (GAT), diffusion models, metric learning, transformer-based vision  
 - **Инструменты:** Git, Docker, FAISS, Annoy, FastAPI, Streamlit
 
 ---
