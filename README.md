@@ -49,15 +49,6 @@
 
 ---
 
-## 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillKlem&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKlem&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
----
-
 ## 📬 Контакты
 
 - 📧 Email: [klemkirill20@gmail.com](mailto:klemkirill20@gmail.com)
