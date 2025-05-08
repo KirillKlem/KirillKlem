@@ -1,55 +1,68 @@
-<h1 align="center">Привет, меня зовут Кирилл! 👋</h1>
-<h3 align="center">ML/AI 🇷🇺</h3>
+<h1 align="center">Привет, я Кирилл 👋</h1>
+<h3 align="center">Специалист по машинному обучению | Computer Vision & Diffusion Models</h3>
 
 <p align="center">
   <a href="https://t.me/klemkirill"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="klemkirill20@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:klemkirill20@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
-<!--   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a> --!>
-
-## 🧑‍💻 Обо мне
-
-- 🎓 Студент Центрального университета, интересующийся Machine Learning.
-- 🔭 Работаю над проектами в области глубокого обучения (especially computer vision).
-- 🌱 Изучаю новые статьи, интересуюсь новыми технологиями и улучшениями нынешних.
-
-## 🛠 Навыки
-
-- **Языки программирования:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)
-- **Фреймворки:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white), [ultralytics](https://www.ultralytics.com/ru)
-- **Инструменты:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-
-## 🚀 Проекты
-
-| 📘 Проект | ✏️ Стек | 📝 Описание |
-|-----------|---------|-------------|
-| [MCMOT (multi-camera multi-object tracking)](https://github.com/KirillKlem/MCMOT-ISS) | PyTorch, Resnet, ViT, YOLOv11, OpenCV | Многокамерный трекер объектов с использованием YOLO для детекции и Metric Learning для ReID. Обеспечивает точное отслеживание людей в нескольких камерах с точной детекцией. |
-| [Ensemble-CBIR (content based image retrieval)](https://github.com/KirillKlem/Ensemble-CBIR) | PyTorch, TensorFlow, Resnet, ViT-CLIP, FAISS, Annoy, OpenCV | CBIR-система для поиска семантически схожих изображений с высокой точностью и масштабируемостью. |
-| [find_video_duplicates](https://github.com/KirillKlem/CU_in_ML) | TensorFlow, Keras, PyTorch | Система обнаружения дубликатов видеофайлов с помощью машинного обучения. |
-| [fMRI_identification](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Scikit-learn, NumPy | Проект по идентификации индивидуальных особенностей мозга на основе fMRI данных. |
-| [text2speech_SSML](https://github.com/trizyx/Article_to_Dialogue) | Transformers, Streamlit, FastAPI | Веб-приложение для преобразования текста в диалог с использованием SSML. |
-| [storage_costs](https://github.com/KirillKlem/storage_costs) | NumPy, Pandas, Seaborn | Анализ затрат на хранение данных и их визуализация для оптимизации расходов. |
-| [cards_classification](https://github.com/KirillKlem/cards_classification) | TensorFlow, Keras, Matplotlib | Модель для классификации изображений карт с применением глубокого обучения. |
-| [player_score_web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Платформа для отслеживания результатов и рейтингов игроков. |
-
-## 🏆 Соревнования
-
-- 🥇 Постоянный участник хакатонов и мл-контестов: 2-е место на всероссийском хакатоне "Цифровой прорыв", 2-е место на всероссийском хакатоне ФИЦ, 3-е место на мл-контесте от Т-Банка, 1-е место в Kaggle соревнования университета
-- 📚 Решаю задачки на [LeetCode](https://leetcode.com/KlemKirill/)
-
-## 📈 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillKlem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKlem&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📫 Контакты
-
-- 💬 Telegram: [@klemkirill](https://t.me/klemkirill)
-- 📧 Email: [klemkirill20@gmail.com](klemkirill20@gmail.com)
 
 ---
 
-Спасибо за внимание! ❤️
+## 🧠 Обо мне
 
+- 🎓 Студент Центрального университета (Math & Computer Science)
+- 🧪 Специализируюсь на задачах генерации и анализа изображений, графов и пространств (CV, GNN, diffusion)
+- 🚀 Быстро довожу исследовательские проекты до рабочих прототипов
+- 🏆 Победитель хакатонов и Kaggle-соревнований
+
+---
+
+## 🛠 Навыки
+
+- **Языки:** Python, SQL  
+- **Фреймворки:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Ultralytics YOLO  
+- **ML/AI:** GNN (GAT), diffusion models, metric learning, transformer-based vision  
+- **Инструменты:** Git, Docker, FAISS, Annoy, FastAPI, Streamlit
+
+---
+
+## 🚀 Топ-проекты
+
+| 📘 Проект | 🧰 Стек | 📝 Кратко |
+|----------|--------|----------|
+| [HouseDiffusion (private)](https://github.com/KirillKlem?tab=repositories) | PyTorch, GAT, Diffusion | Генеративная модель планировок на стыке GNN и диффузионной архитектуры. Исследование, внедрение и стабилизация HouseDiffusion. |
+| [MCMOT (multi-camera multi-object tracking)](https://github.com/KirillKlem/MCMOT-ISS) | YOLOv11, ViT, ResNet, ByteTrack | Система трекинга с re-identification между камерами. Высокая точность и real-time скорость. |
+| [Ensemble CBIR](https://github.com/KirillKlem/Ensemble-CBIR) | ConvNeXt, CLIP, FAISS, Annoy | Поиск похожих изображений через ансамбль моделей. Оптимизирован для больших датасетов. |
+| [Video Duplicates Detector](https://github.com/KirillKlem/CU_in_ML) | CNN, PyTorch, scikit-learn | Определение дубликатов видео, быстрая предобработка и классификация. |
+| [fMRI Clustering](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Spectral Clustering, PCA | Кластеризация функциональных связей мозга по fMRI-данным для идентификации. |
+| [Player Score Web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Трекер и веб-приложение для отображения статистики игроков. |
+| [Text2Speech + SSML](https://github.com/trizyx/Article_to_Dialogue) | Streamlit, Transformers | Генерация диалогов из текста с помощью SSML и веб-интерфейса. |
+
+---
+
+## 🏆 Достижения
+
+- 🥇 1-е место на Kaggle-соревновании: [CU Minihack: What's Age?](https://www.kaggle.com/competitions/cu-minihack-whats-ages)
+- 🥈 2-е место — «Цифровой прорыв» (международный хакатон)
+- 🥈 2-е место — всероссийский хакатон ФИЦ
+- 🥉 3-е место — ML-контест от Т-Банка
+
+---
+
+## 📈 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillKlem&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillKlem&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+## 📬 Контакты
+
+- 📧 Email: [klemkirill20@gmail.com](mailto:klemkirill20@gmail.com)
+- 💬 Telegram: [@kirillklem](https://t.me/kirillklem)
+
+---
+
+⭐ Спасибо за визит! Буду рад коллаборациям и интересным задачам.
