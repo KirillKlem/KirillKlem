@@ -30,8 +30,6 @@ C нуля строю end-to-end CV-решения — от сбора дата�
 
 | 📘 Проект | 🧰 Стек | 📝 Кратко |
 |----------|--------|----------|
-| [GreenPilot Edge Fruit Analytics (private)](https://github.com/KirillKlem?tab=repositories) | PyTorch, YOLO, OpenCV, TensorRT, Docker, Roboflow | On-device детекция и оценка спелости урожая на роверах c определением веса плодов и системой навигации.|
-| [HouseDiffusion (private)](https://github.com/KirillKlem?tab=repositories) | PyTorch, GAT, Diffusion | Генеративная модель планировок на стыке GNN и диффузионной архитектуры. |
 | [MCMOT](https://github.com/KirillKlem/MCMOT-ISS) | YOLO, ViT, ResNet, ByteTrack | Multi-camera tracking с re-ID, real-time 35 FPS. |
 | [Ensemble CBIR](https://github.com/KirillKlem/Ensemble-CBIR) | ConvNeXt, CLIP, FAISS | Поиск похожих изображений, оптимизирован для 120 k SKU. |
 | [Video Duplicates Detector](https://github.com/KirillKlem/CU_in_ML) | CNN, PyTorch | Быстрый детектор дубликатов видео. |
