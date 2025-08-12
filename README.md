@@ -31,7 +31,7 @@ C нуля строю end-to-end CV-решения — от сбора дата�
 | 📘 Проект | 🧰 Стек | 📝 Кратко |
 |----------|--------|----------|
 | [MCMOT](https://github.com/KirillKlem/MCMOT-ISS) | YOLO, ViT, ResNet, ByteTrack | Multi-camera tracking с re-ID, real-time 35 FPS. |
-| [Ensemble CBIR](https://github.com/KirillKlem/Ensemble-CBIR) | ConvNeXt, CLIP, FAISS | Поиск похожих изображений, оптимизирован для 120 k SKU. |
+| [Ensemble CBIR](https://github.com/KirillKlem/Ensemble-CBIR) | ConvNeXt, CLIP, FAISS | Поиск похожих изображений, оптимизирован для большего объёма данных. |
 | [Video Duplicates Detector](https://github.com/KirillKlem/CU_in_ML) | CNN, PyTorch | Быстрый детектор дубликатов видео. |
 | [fMRI Clustering](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Spectral Clustering, PCA | Кластеризация функциональных связей мозга по fMRI. |
 | [Player Score Web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Трекер статистики игроков. |
