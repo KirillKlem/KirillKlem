@@ -1,70 +1,93 @@
+<h1 align="center">╲(｡◕‿◕｡)╱</h1>
 <h1 align="center">Hi, I'm Kirill 👋</h1>
-<h3 align="center">ML/DL Engineer interested in Computer Vision, Reinforcement Learning</h3>
+
+<h3 align="center">
+ML/DL Engineer · Computer Vision · Reinforcement Learning · Multimodal ML
+</h3>
 
 <p align="center">
-  <a href="https://t.me/kirillklem"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="mailto:klemkirill20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kirillklemov@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-ML/DL engineer with a soft spot for computer vision, reinforcement learning, and fun real-world problems.
-╲(｡◕‿◕｡)╱
-   
-Right now I’m especially curious about:
-- embodied AI and robotics
-- humanoids
-- RL for decision-making and long-horizon credit assignment
-- video understanding and generative video
-- foundation models for vision
-- efficient ML systems and inference optimization
+I'm an **ML/DL Engineer with 5+ years of experience** building production ML systems across **sports analytics, large-scale e-commerce search, and generative video**.
 
-I also actively read recent papers, participate in hackathons and ML competitions
+My work is mostly at the intersection of **applied research and ML engineering**: computer vision, multimodal retrieval, reinforcement learning, large-scale training pipelines, and efficient GPU inference.
+
+Currently, I lead technical work across **computer vision and data science at AiStats**, developing systems for player tracking, trajectory reconstruction, multimodal event understanding, and counterfactual player evaluation.
+
+Previously, I worked on **high-RPS search and multimodal retrieval at Yandex** and **GPU-optimized generative video systems at Sber-tech**.
+
+I enjoy taking an ML idea from experiments and evaluation to a production system with measurable impact.
 
 ---
 
-## Achievements
+## Selected Highlights
 
-- 🥇 1st place — Russian AI hackathon by FRC CSC RAS, among ~90 participants  
-- 🥈 2nd place — ML competition by T-Bank, among ~70 participants  
-- 🥈 2nd place — international hackathon “Digital Breakthrough”, among ~150 participants  
-- 🥉 Bronze Medal — Kaggle competition [CSIRO Biomass](https://www.kaggle.com/competitions/csiro-biomass), among ~3000 participants  
+- Built a **spatiotemporal player trajectory reconstruction system** using recurrent models, GNNs, motion priors, and pitch geometry, reducing downstream fitness-metric errors by **41%**
+- Developed a **multimodal event-detection pipeline** combining video, tracking, and match context, establishing a new internal SOTA
+- Built a graph-based **offline RL framework with Conservative Q-Learning** for counterfactual player evaluation and tactical analytics
+- Modernized **image-to-text retrieval at Yandex** using a multimodal dual encoder, behavioral supervision, and hard-negative training, improving compositional matching by **up to 7%**
+- Improved search relevance using **LLM supervision distilled into BERT and integrated with CatBoost**, reducing irrelevant and cross-category results from **7.0% to 2.3%**
+- Built training-data pipelines over **billion-row behavioral logs** for retrieval and relevance modeling
+- Reduced generative-video serving cost by **24%** using sensitivity-aware INT8/INT4 post-training quantization
+- Reduced peak GPU memory from **75 GB to 24 GB** through quantized weights and memory-aware model initialization
+- Reduced latency of performance-critical GPU operators by **up to 18%** using Nsight profiling, kernel fusion, memory-access optimization, and Tensor Core utilization
+- **Kaggle Expert** with 3 competition medals
+- **1st place** — Russian AI Hackathon by FRC CSC RAS
+- **2nd place** — T-Bank ML competition
+- **2nd place** — international Digital Breakthrough hackathon
+- **Bronze Medal** — [CSIRO Biomass Kaggle competition](https://www.kaggle.com/competitions/csiro-biomass)
 
 ---
-
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages & Databases** | Python, SQL, PostgreSQL, SQLite, ClickHouse, Bash |
-| **ML / DL** | PyTorch, TensorFlow, Keras, scikit-learn |
-| **Computer Vision** | OpenCV, Albumentations, Ultralytics YOLO |
-| **Deployment / Optimization** | Docker, ONNX, TensorRT, NVIDIA Triton Inference Server |
-| **Tools** | Git, FastAPI, gRPC, MLflow, ClearML, Temporal, Jupyter |
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, C++, SQL, Bash |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, Hugging Face Transformers |
+| **Computer Vision** | OpenCV, Albumentations, Ultralytics |
+| **ML** | scikit-learn, CatBoost |
+| **Data** | PostgreSQL, ClickHouse |
+| **Inference & GPU** | CUDA, TensorRT, ONNX, NVIDIA Triton |
+| **Distributed ML** | FSDP, NCCL |
+| **Infrastructure** | Docker, Kubernetes, AWS, Google Cloud |
+| **MLOps** | MLflow, ClearML, GitHub Actions |
+| **Backend** | FastAPI, gRPC, Temporal |
+| **Profiling** | Nsight Systems, Nsight Compute |
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [MCMOT](https://github.com/KirillKlem/MCMOT-ISS) | YOLO, ViT, ResNet, ByteTrack | Multi-camera tracking with re-ID, real-time pipeline at 35 FPS |
-| [Ensemble CBIR](https://github.com/KirillKlem/Ensemble-CBIR) | ConvNeXt, CLIP, FAISS | Content-based image retrieval system optimized for larger-scale search |
-| [Video Duplicates Detector](https://github.com/KirillKlem/CU_in_ML) | CNN, PyTorch | Fast video duplicate detection pipeline |
-| [fMRI Clustering](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Spectral Clustering, PCA | Clustering functional brain connectivity patterns from fMRI data |
-| [Player Score Web](https://github.com/KirillKlem/player-score-web) | Flask, SQLAlchemy | Web app for tracking player statistics |
-| [Text2Speech + SSML](https://github.com/trizyx/Article_to_Dialogue) | Streamlit, Transformers | Dialogue generation from text with SSML-based speech synthesis |
-
----
-
-## Contact
-
-- Email: [klemkirill.workspace@gmail.com](mailto:klemkirill.workspace@gmail.com)
-- Telegram: [@kirillklem](https://t.me/kirillklem)
+| Project | Description |
+|---|---|
+| [**MCMOT**](https://github.com/KirillKlem/MCMOT-ISS) | Multi-camera tracking and re-identification pipeline using YOLO, ViT, ResNet, and ByteTrack |
+| [**Ensemble CBIR**](https://github.com/KirillKlem/Ensemble-CBIR) | Image retrieval system based on ConvNeXt, CLIP, and FAISS |
+| [**Video Duplicates Detector**](https://github.com/KirillKlem/CU_in_ML) | Efficient deep-learning pipeline for video duplicate detection |
+| [**Brain Atlas Clustering**](https://github.com/KirillKlem/Brain-Atlas-Clustering-for-Individual-fMRI-Fingerprints) | Clustering and representation analysis of functional brain connectivity |
+| [**Article to Dialogue**](https://github.com/trizyx/Article_to_Dialogue) | Transformer-based dialogue generation and SSML speech synthesis |
 
 ---
 
-I’m always happy to connect with people interested in ML, CV, RL, robotics, and research-driven engineering.
+## Current Interests
+
+My current research and engineering interests are centered around:
+
+- **Reinforcement Learning** — offline RL, decision-making, long-horizon problems, RL for real-world systems
+- **Computer Vision & Video** — tracking, video understanding, temporal modeling, vision foundation models
+- **Multimodal ML** — VLMs, vision-language retrieval, multimodal representation learning
+- **Embodied AI & Robotics** — VLA models, robot learning, learned policies for physical agents
+- **Efficient ML Systems** — inference optimization, quantization, GPU performance, distributed training
+
+I actively follow recent research and like reproducing, stress-testing, and adapting promising methods to practical problems.
+
+<p align="center">
+  <b>Research → Experiments → Production</b>
+</p>
